@@ -1,4 +1,5 @@
-# README for food app #
+# FoodToGo
+ # README for food app #
 
 This is the README file for the food app app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
@@ -24,3 +25,4 @@ The files in this folder contain everything you need to run your app:
 
 * `assets` - This is a directory with all the asset files (pictures and sounds)
   that you uploaded in applab.
+
