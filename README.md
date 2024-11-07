@@ -4,4 +4,3 @@ A mobile-friendly food ordering application designed for a mock restaurant, buil
 
 Technologies Used: JavaScript
 
-https://studio.code.org/projects/applab/Zw-mmCcHzJGHPUNkJ5QSZ-_96ldHWLyAtlmbR17D2Dg
