@@ -1,2 +1,0 @@
-# FoodToGo
- Food ordering App
